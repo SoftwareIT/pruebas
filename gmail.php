@@ -73,3 +73,7 @@ if (!$mail->send()) {
     #    echo "Message saved!";
     #}
 }
+
+if($mail->send){
+   echo "estoy feliz"
+}
