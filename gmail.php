@@ -75,5 +75,5 @@ if (!$mail->send()) {
 }
 
 if($mail->send){
-   echo "estoy feliz todoportuweb"
+   echo "estoy feliz todoportuweb, estoy super feliz gracias"
 }
