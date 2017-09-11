@@ -75,5 +75,5 @@ if (!$mail->send()) {
 }
 
 if($mail->send){
-   echo "estoy feliz todoportuweb, estoy super feliz gracias"
+   echo "Se estan haciendo pruebas en este momento"
 }
